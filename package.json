@@ -9,6 +9,9 @@
   },
   "author": "Loveday",
   "license": "ISC",
+  "engines": {
+    "node": "16.15.1"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
